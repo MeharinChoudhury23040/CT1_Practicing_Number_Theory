@@ -2,7 +2,8 @@
 
 **Name:** Meharin Choudhury  
 **ID:** IT-23040  
-**Course / Submission:** CT#1, Number Theory & Cryptography practice  
+
+**Topic:** CT#1, Number Theory & Cryptography practice  
 **Code:** [`number_theory.py`](number_theory.py) and the Colab notebook [`Number_Theory_Practicing.ipynb`](Number_Theory_Practicing.ipynb) (every output below was produced by running it)
 
 > Reference: [mnp-club / NumberTheoryandCryptographyWorkshop](https://github.com/mnp-club/NumberTheoryandCryptographyWorkshop)
