@@ -25,13 +25,8 @@ gcd(a,b)
 gcd(24,16)=8
 \]
 
-## Python Code
-def gcd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
+<img width="2175" height="2268" alt="image" src="https://github.com/user-attachments/assets/4fcc51ec-7095-4f6b-af5c-f3bdddae3859" />
 
-print(gcd(24, 16))
 
 ## Output
 8
@@ -256,7 +251,8 @@ while p * p <= n:
     p += 1
 
 for i in range(2, n + 1):
-    if primeprint(i, end=" ")
+    if prime[i]:
+        print(i, end=" ")
 
 ## Output
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
