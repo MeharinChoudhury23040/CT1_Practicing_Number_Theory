@@ -1,7 +1,7 @@
 # CT #1 — Practicing Number Theory
 
 **Name:** `Meharin Choudhury`  
-**ID:** `<IT-23040>`  
+**ID:** `IT-23040`  
 **Course / Submission:** CT#1, Number Theory & Cryptography practice  
 **Code:** [`number_theory.py`](number_theory.py) (every output below was produced by running it)
 
