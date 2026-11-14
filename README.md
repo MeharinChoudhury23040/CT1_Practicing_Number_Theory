@@ -25,7 +25,7 @@ gcd(a,b)
 gcd(24,16)=8
 \]
 
-<img width="2175" height="2268" alt="image" src="https://github.com/user-attachments/assets/4fcc51ec-7095-4f6b-af5c-f3bdddae3859" />
+<img width="2175" height="2268" alt="image" src="https://github.com/user-attachments/assets/f3022107-fa7a-496e-a6bf-3fbd662eb015" />
 
 
 ## Output
