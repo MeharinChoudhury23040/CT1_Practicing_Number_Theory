@@ -1,4 +1,5 @@
-"""CT#1 - Practicing Number Theory: all experiments in one module."""
+""" Meharin Choudhury. IT-23040. """
+""" CT#1 - Practicing Number Theory: all experiments in one module. """
 import math
 from math import gcd, log, isqrt
 import matplotlib
